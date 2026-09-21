@@ -1,0 +1,5 @@
+opencv-python==5.0.0.93
+numpy==2.4.6
+pygrabber==0.2
+pyvirtualcam==0.15.0
+pyinstaller==6.22.3
